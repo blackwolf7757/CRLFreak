@@ -54,4 +54,5 @@ The tool will:
 
 _____________________________________________________________________________________________________________________________
 ⚖️ Ethical Usage
+
 This tool is intended for authorized security assessments only. Do not use CRLFreak on systems without explicit permission. Unauthorized scanning is illegal and unethical.
